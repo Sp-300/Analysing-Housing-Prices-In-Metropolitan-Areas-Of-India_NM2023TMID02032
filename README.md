@@ -12,4 +12,4 @@ Story public link .         https://public.tableau.com/views/Story1_169709531774
 
 Heding.                      Analysing Housing Price In Metropolitan Areas Of India 
 
-Vedio demonstration link .   https://drive.goole.com/folderview?id=1TxyU4BFSaYTIc0h7dUgqwI8c5vmmB-iU
+Vedio demonstration link .   https://drive.google.com/folderview?id=1TxyU4BFSaYTIc0h7dUgqwI8c5vmmB-iU
